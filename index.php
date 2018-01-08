@@ -7,9 +7,7 @@
         <title>Versão</title>
     </head>
     <body>
-        <?php
-            
-        ?>
+        <p>Este arquivo foi modificado</p>
     </body>
 </html>
 
